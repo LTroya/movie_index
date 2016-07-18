@@ -2,6 +2,15 @@
 
 Catalogo de peliculas usando el API the https://www.themoviedb.org/ utilizando la Arquitectura MVP
 
+## Pasos para poder ejecutar la app
+
+* Crearse una cuenta en https://www.themoviedb.org/
+* Acceder al portal
+* Ingresar a la sección de API
+* Copiar el código de **Clave de la API**
+* Sustituir la variable **THEMOVIEDB_API_KEY** en el archivo **gradle.properties**
+* Listo
+
 ## Features
 
 * Ver las peliculas mas populares hasta el momento
