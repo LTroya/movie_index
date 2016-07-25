@@ -127,6 +127,8 @@ public class MovieDetailActivity extends AppCompatActivity implements MovieDetai
 
     @OnClick(R.id.btn_save_movie)
     public void keepMovie() {
+        boolean keepMovie = movie.isKeep();
+        movie.setKeep(!keepMovie);
         presenter.keepMovie(movie);
     }
 
