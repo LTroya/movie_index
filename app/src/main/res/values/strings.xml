@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Index</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nav.watch.later.title">Ver mas tarde</string>
+    <string name="nav.movie.title">Peliculas</string>
+
+    <string name="movie.detail.genre">Generos: </string>
+    <string name="movie.detail.vote.average">Votos: </string>
+    <string name="movie.detail.popularity">Popularidad: </string>
+    <string name="movie.detail.release.date">Publicada: </string>
+    <string name="movie_detail_save_in_db">Pelicula agregada a favoritos</string>
+    <string name="movie_detail_remove_from_db">Pelicula borrada de favoritos</string>
+
+    <string name="movie.detail.error">Imposible cargar la pelicula</string>
+
+    <string name="movie.saved.error.message">No hay peliculas para ver mas tarde</string>
+</resources>
